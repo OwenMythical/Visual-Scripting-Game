@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2655257827752139112}
   - component: {fileID: 450775215729917137}
   - component: {fileID: 8206042231122155043}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -113,7 +113,7 @@ GameObject:
   - component: {fileID: 7391835887582876588}
   - component: {fileID: 7421340447871821851}
   - component: {fileID: 1073231202178879892}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -251,7 +251,7 @@ GameObject:
   - component: {fileID: 2087429818756103796}
   - component: {fileID: 6232472304354470925}
   - component: {fileID: 8175274720192841999}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: TempMulZone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
